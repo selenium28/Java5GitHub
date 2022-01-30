@@ -13,6 +13,8 @@ public class GlobalAndLocalVeriables {
 		System.out.println(GlobalAndLocalVeriables.str);
 		
 		obj.demo();
+		//direct calling - static method 
+		// static method, variables - call by using class names.
 		GlobalAndLocalVeriables.display();
 		
 	}
